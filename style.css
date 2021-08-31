@@ -1,0 +1,24 @@
+.heading {
+    font-size: 20px !important;
+    color: white;
+    font-weight: bolder;
+}
+canvas{
+    border: black dotted 5px;
+    border-radius: 20px;
+}
+footer {
+    background-color: grey;
+    color: white;
+    font-weight: bolder;
+    font-size: 20px;
+    position: fixed;
+    bottom:0;
+    height: 40px;
+    width: 100%;
+    text-align: center;
+}
+body {
+    background-image: url("image.jpg");
+    background-size: cover;
+}
